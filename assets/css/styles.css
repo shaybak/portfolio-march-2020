@@ -80,9 +80,20 @@ TEXT
 NAVBAR
 *******************/
 
+.navbar-light .navbar-nav .nav-link {
+    color: #247ba0;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #88498f;
+}
+
 .navbar-custom-css {
     background-color: #a8e6cf;
-    text-align: right;
+}
+
+.nav-item {
+    margin: auto 20px;
 }
 
 

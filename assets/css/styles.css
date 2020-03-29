@@ -77,6 +77,16 @@ TEXT
 
 
 /****************************************************
+NAVBAR
+*******************/
+
+.navbar-custom-css {
+    background-color: #a8e6cf;
+    text-align: right;
+}
+
+
+/****************************************************
 DIVIDERS
 *******************/
 
@@ -225,7 +235,7 @@ BUTTONS
 MEDIA QUERIES
 *******************/
 
-@media only screen and (max-width: 770px) {
+@media only screen and (max-width: 900px) {
     h2 {
         font-size: 2rem;
     }
